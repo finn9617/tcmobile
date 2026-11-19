@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0B1F3A"/>
+  <rect x="3" y="3" width="58" height="58" rx="11" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="1.5"/>
+  <!-- Precision PCB trace accents -->
+  <path d="M12 18H20L24 22" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="12" cy="18" r="2.2" fill="#38BDF8"/>
+  <path d="M52 46H44L40 42" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="52" cy="46" r="2.2" fill="#F59E0B"/>
+  <!-- Monogram T -->
+  <path d="M15 26H33V30.5H26.4V46H21.6V30.5H15V26Z" fill="#FFFFFF"/>
+  <!-- Monogram C -->
+  <path d="M48.5 31.2C47.3 29.9 45.6 29.2 43.6 29.2C39.8 29.2 37.3 31.9 37.3 36C37.3 40.1 39.8 42.8 43.6 42.8C45.6 42.8 47.3 42.1 48.5 40.8L51.3 43.8C49.3 45.9 46.6 47 43.4 47C36.8 47 32.3 42.5 32.3 36C32.3 29.5 36.8 25 43.4 25C46.6 25 49.3 26.1 51.3 28.2L48.5 31.2Z" fill="#38BDF8"/>
+</svg>
